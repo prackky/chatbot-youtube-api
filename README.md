@@ -5,6 +5,8 @@ API to fetch youtube videos in cards format for facebook messenger.
 ## One click heroku deploy:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+Note: After deploying your app to Heroku, add your YOUTUBE_ACCESS_TOKEN from your Google API account. Also, enable the YOUTUBE API on your Google API account.
+
 This API takes GET request at /videoChannel path along with search parameters which can be as mentioned below:
 
 ## 1. q
