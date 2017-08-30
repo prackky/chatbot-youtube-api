@@ -21,6 +21,7 @@
   "homepage": "https://github.com/prackky/chatbot-youtube-api#readme",
   "dependencies": {
     "express": "^4.15.4",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "redis": "^2.8.0"
   }
 }
